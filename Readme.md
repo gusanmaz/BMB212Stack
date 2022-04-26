@@ -31,8 +31,9 @@ public class Stack {
     // Iki yiginda bos ise bu fonksiyon true degerini dondurur.
     // Iki yiginin da icerigi ayni fakat kapasiteleri farkli ise (s dizisinin eleman sayilari farkli ise) fonksiyon true degerini dondurur.
     // Fonksiyon taniminda (function signature) herhangi bir degisiklik yapmayiniz.
+    
     public static boolean Equal(Stack s1, Stack s2){
-        
+        // Fonksiyon icini uygun sekilde doldurunuz.
     }
 }
 ```
