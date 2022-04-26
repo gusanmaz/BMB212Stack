@@ -37,3 +37,14 @@ public class Stack {
     }
 }
 ```
+
+Size hazir verilen Main.java sinifina ait kodlar asagidaki gibidir.
+
+
+```java
+public class Main {
+    public static void main(String args[]){
+        // main fonksiyonun icini uygun sekilde doldurunuz.
+    }
+}
+```
