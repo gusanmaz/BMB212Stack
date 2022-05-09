@@ -67,7 +67,7 @@ java Main nku nku
 true
 java Main nku nkuu
 false
-java Main yemek* yeme
+java Main yemek% yeme
 true
 java Main abc*d abd
 true
