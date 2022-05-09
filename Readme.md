@@ -48,3 +48,33 @@ public class Main {
     }
 }
 ```
+
+Yardimci Kod Ornegi: Asagidaki kod ornegi bir stringin karaketerlerini sirayla alt alta yazdirmaktadir. Kodun altinda kodun ciktisi da verilmistir.
+Main altinda yazacaginiz kodda stringi olusturan karakterler uzerinde tek tek islem yapmak gerekebilecegi icin bu ornek kod size hazir verilmistir.
+
+```java
+public class Main {
+    public static void main(String args[]){
+        String s = "Bilgisayar";
+        for (int i = 0; i < s.length(); i++){
+            char c = s.charAt(i);
+            System.out.println(c);
+        }
+    }
+}
+```
+
+Kod Ciktisi:
+
+```bash
+B
+i
+l
+g
+i
+s
+a
+y
+a
+r
+```
